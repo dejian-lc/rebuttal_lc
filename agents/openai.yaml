@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Rebuttal"
+  short_description: "Evidence-based rebuttal strategy, drafting, and review"
+  default_prompt: "Use $academic-rebuttal to analyze my reviews, identify the evidence needed, and draft a response appropriate to the venue."
